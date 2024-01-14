@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me through Linkedin
 - 😄 Pronouns: Hemanth
-- ⚡ Fun fact: I am pursuing my BE in computer science and engineering.
+- ⚡ Fun fact:Pursuing a BE in Computer Science and Engineering
 
 <!---
 hemanthek73/hemanthek73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
