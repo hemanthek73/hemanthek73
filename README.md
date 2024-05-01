@@ -1,5 +1,5 @@
 
-# 💫 About Me:<br><h4> I’m currently working on: Completing my Bachelor's degree in Computer Science and Engineering at Visvesvaraya Technological University.<br><br>👯 I’m looking to collaborate on: Front-end development projects using HTML, CSS, JavaScript, and React.<br><br>🤝 I’m looking for help with: Exploring new front-end frameworks and improving my skills in web development.<br><br>🌱 I’m currently learning: Advanced concepts in React and exploring best practices in front-end development.<br><br>💬 Ask me about: Front-end technologies, web development projects, or anything related to my studies and interests.<br><br>⚡ Fun fact: I enjoy experimenting with new CSS animations and creating interactive user interfaces.</h4>
+# 💫 About Me:<br><h4> I’m currently working on: Completing my Bachelor's degree in Computer Science and Engineering at Visvesvaraya Technological University.<br><br>👯 I’m looking to collaborate on: Front-end development projects using HTML, CSS, JavaScript, and React.<br><br>🤝 I’m looking for help with Exploring new front-end frameworks and improving my skills in web development.<br><br>🌱 I’m currently learning: Advanced concepts in React and exploring best practices in front-end development.<br><br>💬 Ask me about: Front-end technologies, web development projects, or anything related to my studies and interests.<br><br>⚡ Fun fact: I enjoy experimenting with new CSS animations and creating interactive user interfaces.</h4>
 
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+
 
 
 ---
